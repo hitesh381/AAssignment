@@ -12,5 +12,8 @@ Created Dockerfile for the server
  
 Wrote required yaml and helm charts for the same
 
+Use "helm upgrade -f myvalues.yaml -f override.yaml assignment-helm ./assignment-helm" to upgrade the application after switching to dev
+
+
 
 PS: This project/assignment has lot of room to improve and develop, thanks
