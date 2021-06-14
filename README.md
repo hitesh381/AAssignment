@@ -13,6 +13,8 @@ Whenever someone logs in to the client machine a ssh login event is greped by ou
 
 Created Dockerfile for the server
   
+Docker hub repo url - https://hub.docker.com/repository/docker/hitesh381/aassignment/general
+
 Wrote required yaml and helm charts for the same
 
 Use "helm upgrade -f myvalues.yaml -f override.yaml assignment-helm ./assignment-helm" to upgrade the application after switching to dev
